@@ -92,7 +92,7 @@ function updateMap() {   // update map function banaya jo ki updata karega
 
 }
 
-let interval = 20000;
+let interval = 5000;
 setInterval(updateMap,interval)
 // updateMap(); // function ko call kiya.
 
